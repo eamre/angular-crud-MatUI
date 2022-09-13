@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "e",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 0,
+      "comment": "e",
+      "date": "2022-08-04T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "k",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": -1,
+      "comment": "l",
+      "date": "2022-08-04T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "e",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 7,
+      "comment": "e",
+      "date": "2022-08-15T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "ş",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 2,
+      "comment": "ş",
+      "date": "2022-08-01T21:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
