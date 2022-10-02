@@ -1,7 +1,7 @@
 # Angular Crud
 
 <img src="https://github.com/eamre/angular-crud-matui/blob/main/src/assets/ph1.PNG" />
-<img src="https://github.com/eamre/angular-crud-matui/blob/main/src/assets/Ph2.PNG" width="450" height="520" />
+<img src="https://github.com/eamre/angular-crud-matui/blob/main/src/assets/Ph2.PNG" width="450" />
 
 ## Angular CLI
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
